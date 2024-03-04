@@ -1,4 +1,4 @@
-**Food explorer**
+## Food explorer
 
 **Explicações Sobre o Projeto**
 
